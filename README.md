@@ -10,7 +10,7 @@ Classifying Edible vs. Poisonous Mushrooms
   
 ### Data Details
 
-* Source: UCI Repository
+* Source: [UCI Repository](https://archive.ics.uci.edu/ml/index.php)
 
 * The dataset contains 8123 observations of 23 species of gilled mushrooms in the Agaricus and Lepiota Families
 
