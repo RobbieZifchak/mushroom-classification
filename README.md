@@ -1,4 +1,4 @@
-# mushroom-classification
+# Wait, Don't Eat That!
 
 Classifying Edible vs. Poisonous Mushrooms
 
